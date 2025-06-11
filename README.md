@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+# Run and deploy your Quizzing app as a version of Kahoot
 
 This contains everything you need to run your app locally.
 
